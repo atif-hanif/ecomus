@@ -1,0 +1,5 @@
+@media (max-width: 991px) {
+    .top-bar .grid-3 {
+        grid-template-columns: 1fr;
+    }
+}
